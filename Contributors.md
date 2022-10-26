@@ -2,3 +2,5 @@
 - [AnkitSingh-16](https://github.com/AnkitSingh-16)
 - [siddhesh-desai](https://github.com/siddhesh-desai)
 - [aadi-raj](https://github.com/aadi-raj)
+- [ankushmallick1100](https://github.com/ankushmallick1100)
+- [ritikanagar09](https://github.com/ritikanagar09)
